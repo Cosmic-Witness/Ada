@@ -1,0 +1,7 @@
+python-dotenv
+supabase
+google-api-python-client
+google-auth
+google-auth-oauthlib
+instagrapi
+rich
